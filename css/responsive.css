@@ -76,6 +76,7 @@
         padding: 0 8px 0 0;
         animation:  mobileSearchSideIn linear 0.3s;
         display: none;
+        margin-left: -5px;
     }
     @keyframes mobileSearchSideIn {
         from {
